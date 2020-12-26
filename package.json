@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint src/**",
-    "success-message": "echo Thanks for committing $user.name"
+    "success-message": "echo Thanks for committing "
   },
   "keywords": [],
   "author": "",
