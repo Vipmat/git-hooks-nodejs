@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint src/**",
-    "success-message": "echo Thanks for committing {$GIT_AUTHOR_NAME}"
+    "success-message": "echo Thanks for committing `{$GIT_AUTHOR_NAME}`"
   },
   "keywords": [],
   "author": "",
